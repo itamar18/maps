@@ -1,0 +1,7163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>/20191003/03113716.KML</name>
+<Placemark>
+<name>03-10-11:40:18</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:18+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.6</value>
+</Data>
+<Data name="d in m">
+<value>0</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177492,-29.179757,775.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:19</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:19+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.5</value>
+</Data>
+<Data name="d in m">
+<value>6</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177488,-29.179813,777.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:20</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:20+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.6</value>
+</Data>
+<Data name="d in m">
+<value>10</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177550,-29.179787,779.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:21</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:21+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.2</value>
+</Data>
+<Data name="d in m">
+<value>15</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177565,-29.179783,779.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:22</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:22+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>3.9</value>
+</Data>
+<Data name="d in m">
+<value>19</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177567,-29.179752,787.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:23</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:23+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>3.4</value>
+</Data>
+<Data name="d in m">
+<value>23</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177592,-29.179762,788.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:24</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:24+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.0</value>
+</Data>
+<Data name="d in m">
+<value>26</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177603,-29.179738,789.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:25</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:25+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.4</value>
+</Data>
+<Data name="d in m">
+<value>30</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177615,-29.179692,789.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:26</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:26+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.7</value>
+</Data>
+<Data name="d in m">
+<value>36</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177632,-29.179618,788.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:27</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:27+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.4</value>
+</Data>
+<Data name="d in m">
+<value>42</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177637,-29.179547,788.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:28</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:28+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.6</value>
+</Data>
+<Data name="d in m">
+<value>50</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177638,-29.179475,788.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:29</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:29+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.0</value>
+</Data>
+<Data name="d in m">
+<value>57</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177645,-29.179402,788.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:30</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:30+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.1</value>
+</Data>
+<Data name="d in m">
+<value>65</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177648,-29.179325,788.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:31</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:31+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.9</value>
+</Data>
+<Data name="d in m">
+<value>73</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177652,-29.179250,788.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:32</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:32+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.2</value>
+</Data>
+<Data name="d in m">
+<value>81</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177657,-29.179178,787.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:33</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:33+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.4</value>
+</Data>
+<Data name="d in m">
+<value>89</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177660,-29.179117,787.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:34</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:34+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.5</value>
+</Data>
+<Data name="d in m">
+<value>95</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177663,-29.179062,787.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:35</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:35+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.3</value>
+</Data>
+<Data name="d in m">
+<value>100</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177668,-29.179018,787.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:36</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:36+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>3.1</value>
+</Data>
+<Data name="d in m">
+<value>105</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177673,-29.178988,788.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:37</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:37+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>2.4</value>
+</Data>
+<Data name="d in m">
+<value>108</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177677,-29.178963,788.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:38</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:38+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>3.1</value>
+</Data>
+<Data name="d in m">
+<value>110</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177670,-29.178938,788.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:39</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:39+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>3.8</value>
+</Data>
+<Data name="d in m">
+<value>113</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177653,-29.178907,788.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:40</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:40+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.0</value>
+</Data>
+<Data name="d in m">
+<value>117</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177615,-29.178875,787.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:41</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:41+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.1</value>
+</Data>
+<Data name="d in m">
+<value>122</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177572,-29.178845,787.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:42</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:42+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.9</value>
+</Data>
+<Data name="d in m">
+<value>127</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177533,-29.178817,786.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:43</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:43+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.1</value>
+</Data>
+<Data name="d in m">
+<value>132</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177498,-29.178780,786.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:44</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:44+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.7</value>
+</Data>
+<Data name="d in m">
+<value>137</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177472,-29.178735,786.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:45</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:45+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.1</value>
+</Data>
+<Data name="d in m">
+<value>143</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177460,-29.178668,786.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:46</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:46+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.2</value>
+</Data>
+<Data name="d in m">
+<value>150</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177463,-29.178583,786.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:47</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:47+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.6</value>
+</Data>
+<Data name="d in m">
+<value>158</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177468,-29.178502,787.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:48</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:48+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.0</value>
+</Data>
+<Data name="d in m">
+<value>167</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177473,-29.178417,787.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:49</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:49+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.4</value>
+</Data>
+<Data name="d in m">
+<value>176</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177477,-29.178328,788.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:50</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:50+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.9</value>
+</Data>
+<Data name="d in m">
+<value>185</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177482,-29.178235,789.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:51</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:51+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.4</value>
+</Data>
+<Data name="d in m">
+<value>195</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177483,-29.178147,789.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:52</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:52+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.4</value>
+</Data>
+<Data name="d in m">
+<value>205</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177487,-29.178060,790.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:53</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:53+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.1</value>
+</Data>
+<Data name="d in m">
+<value>214</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177488,-29.177977,790.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:54</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:54+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.1</value>
+</Data>
+<Data name="d in m">
+<value>223</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177490,-29.177895,791.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:55</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:55+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.0</value>
+</Data>
+<Data name="d in m">
+<value>232</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177490,-29.177813,791.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:56</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:56+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.0</value>
+</Data>
+<Data name="d in m">
+<value>241</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177480,-29.177733,789.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:57</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:57+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.0</value>
+</Data>
+<Data name="d in m">
+<value>250</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177477,-29.177653,788.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:58</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:58+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.9</value>
+</Data>
+<Data name="d in m">
+<value>259</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177490,-29.177582,785.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:40:59</name>
+<TimeStamp> 
+<when>2019-10-03T11:40:59+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.4</value>
+</Data>
+<Data name="d in m">
+<value>268</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177487,-29.177503,785.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:00</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:00+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.9</value>
+</Data>
+<Data name="d in m">
+<value>276</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177487,-29.177432,784.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:01</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:01+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.2</value>
+</Data>
+<Data name="d in m">
+<value>284</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177483,-29.177363,784.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:02</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:02+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.6</value>
+</Data>
+<Data name="d in m">
+<value>292</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177487,-29.177303,784.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:03</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:03+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.8</value>
+</Data>
+<Data name="d in m">
+<value>298</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177497,-29.177253,782.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:04</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:04+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.6</value>
+</Data>
+<Data name="d in m">
+<value>304</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177497,-29.177208,782.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:05</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:05+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>3.3</value>
+</Data>
+<Data name="d in m">
+<value>309</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177493,-29.177175,782.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:06</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:06+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>1.7</value>
+</Data>
+<Data name="d in m">
+<value>312</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177497,-29.177157,782.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:07</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:07+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.4</value>
+</Data>
+<Data name="d in m">
+<value>314</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177493,-29.177150,781.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:08</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:08+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>314</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177493,-29.177150,781.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:09</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:09+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>314</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177493,-29.177150,781.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:10</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:10+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>314</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177493,-29.177150,781.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:11</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:11+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>314</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177493,-29.177150,781.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:12</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:12+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>314</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177493,-29.177150,781.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:13</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:13+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>314</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177493,-29.177150,781.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:14</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:14+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>314</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177493,-29.177150,781.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:15</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:15+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>314</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177493,-29.177150,781.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:16</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:16+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>314</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177493,-29.177150,781.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:17</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:17+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>314</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177493,-29.177150,781.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:18</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:18+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>314</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177493,-29.177150,781.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:19</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:19+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>314</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177493,-29.177150,781.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:20</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:20+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>314</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177493,-29.177150,781.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:21</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:21+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>314</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177495,-29.177150,781.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:22</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:22+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>314</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177495,-29.177152,781.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:23</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:23+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>314</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177495,-29.177152,781.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:24</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:24+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>314</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177495,-29.177152,781.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:25</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:25+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>314</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177495,-29.177152,781.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:26</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:26+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>314</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177495,-29.177152,781.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:27</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:27+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.4</value>
+</Data>
+<Data name="d in m">
+<value>314</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177490,-29.177152,781.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:28</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:28+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>1.6</value>
+</Data>
+<Data name="d in m">
+<value>314</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177488,-29.177145,780.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:29</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:29+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>2.6</value>
+</Data>
+<Data name="d in m">
+<value>316</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177490,-29.177125,780.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:30</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:30+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>2.8</value>
+</Data>
+<Data name="d in m">
+<value>316</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177490,-29.177102,780.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:31</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:31+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>3.8</value>
+</Data>
+<Data name="d in m">
+<value>321</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177488,-29.177072,780.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:32</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:32+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.6</value>
+</Data>
+<Data name="d in m">
+<value>325</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177487,-29.177033,780.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:33</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:33+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.3</value>
+</Data>
+<Data name="d in m">
+<value>330</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177487,-29.176988,780.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:34</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:34+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.2</value>
+</Data>
+<Data name="d in m">
+<value>335</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177490,-29.176943,780.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:35</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:35+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.8</value>
+</Data>
+<Data name="d in m">
+<value>340</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177493,-29.176893,780.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:36</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:36+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.3</value>
+</Data>
+<Data name="d in m">
+<value>346</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177502,-29.176840,781.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:37</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:37+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.9</value>
+</Data>
+<Data name="d in m">
+<value>352</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177507,-29.176782,782.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:38</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:38+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.2</value>
+</Data>
+<Data name="d in m">
+<value>359</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177508,-29.176717,782.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:39</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:39+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.6</value>
+</Data>
+<Data name="d in m">
+<value>366</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177508,-29.176648,782.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:40</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:40+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.8</value>
+</Data>
+<Data name="d in m">
+<value>374</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177510,-29.176578,783.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:41</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:41+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.7</value>
+</Data>
+<Data name="d in m">
+<value>382</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177510,-29.176507,784.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:42</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:42+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.7</value>
+</Data>
+<Data name="d in m">
+<value>389</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177508,-29.176437,784.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:43</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:43+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.5</value>
+</Data>
+<Data name="d in m">
+<value>397</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177508,-29.176372,785.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:44</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:44+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.8</value>
+</Data>
+<Data name="d in m">
+<value>405</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177508,-29.176308,786.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:45</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:45+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.1</value>
+</Data>
+<Data name="d in m">
+<value>411</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177507,-29.176252,786.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:46</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:46+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.8</value>
+</Data>
+<Data name="d in m">
+<value>418</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177507,-29.176205,786.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:47</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:47+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>3.7</value>
+</Data>
+<Data name="d in m">
+<value>422</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177505,-29.176168,787.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:48</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:48+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>3.0</value>
+</Data>
+<Data name="d in m">
+<value>426</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177500,-29.176138,787.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:49</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:49+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>2.9</value>
+</Data>
+<Data name="d in m">
+<value>429</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177493,-29.176115,787.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:50</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:50+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>3.4</value>
+</Data>
+<Data name="d in m">
+<value>432</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177478,-29.176092,788.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:51</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:51+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.2</value>
+</Data>
+<Data name="d in m">
+<value>435</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177450,-29.176068,788.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:52</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:52+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.7</value>
+</Data>
+<Data name="d in m">
+<value>440</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177413,-29.176047,788.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:53</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:53+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.9</value>
+</Data>
+<Data name="d in m">
+<value>444</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177365,-29.176035,788.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:54</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:54+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.9</value>
+</Data>
+<Data name="d in m">
+<value>449</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177315,-29.176030,788.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:55</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:55+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.9</value>
+</Data>
+<Data name="d in m">
+<value>454</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177260,-29.176028,788.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:56</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:56+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.4</value>
+</Data>
+<Data name="d in m">
+<value>460</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177195,-29.176020,788.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:57</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:57+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.7</value>
+</Data>
+<Data name="d in m">
+<value>466</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177118,-29.176017,788.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:58</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:58+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.7</value>
+</Data>
+<Data name="d in m">
+<value>474</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.177023,-29.176012,787.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:41:59</name>
+<TimeStamp> 
+<when>2019-10-03T11:41:59+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.0</value>
+</Data>
+<Data name="d in m">
+<value>483</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.176927,-29.176012,788.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:00</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:00+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.2</value>
+</Data>
+<Data name="d in m">
+<value>492</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.176827,-29.176007,788.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:01</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:01+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.3</value>
+</Data>
+<Data name="d in m">
+<value>501</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.176730,-29.176010,788.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:02</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:02+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.6</value>
+</Data>
+<Data name="d in m">
+<value>510</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.176638,-29.176012,787.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:03</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:03+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.0</value>
+</Data>
+<Data name="d in m">
+<value>519</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.176550,-29.176017,787.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:04</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:04+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.1</value>
+</Data>
+<Data name="d in m">
+<value>527</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.176457,-29.176013,787.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:05</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:05+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.1</value>
+</Data>
+<Data name="d in m">
+<value>536</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.176362,-29.176012,787.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:06</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:06+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.3</value>
+</Data>
+<Data name="d in m">
+<value>545</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.176273,-29.176017,788.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:07</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:07+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.5</value>
+</Data>
+<Data name="d in m">
+<value>553</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.176198,-29.176023,787.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:08</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:08+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.1</value>
+</Data>
+<Data name="d in m">
+<value>561</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.176125,-29.176023,787.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:09</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:09+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.6</value>
+</Data>
+<Data name="d in m">
+<value>567</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.176072,-29.176015,787.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:10</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:10+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>3.2</value>
+</Data>
+<Data name="d in m">
+<value>572</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.176032,-29.176008,787.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:11</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:11+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>1.8</value>
+</Data>
+<Data name="d in m">
+<value>575</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.176008,-29.176002,787.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:12</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:12+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>1.0</value>
+</Data>
+<Data name="d in m">
+<value>577</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175993,-29.175998,788.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:13</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:13+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.6</value>
+</Data>
+<Data name="d in m">
+<value>578</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175983,-29.175998,788.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:14</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:14+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.4</value>
+</Data>
+<Data name="d in m">
+<value>578</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175977,-29.175997,788.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:15</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:15+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.9</value>
+</Data>
+<Data name="d in m">
+<value>579</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175970,-29.175997,789.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:16</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:16+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>1.4</value>
+</Data>
+<Data name="d in m">
+<value>579</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175957,-29.175997,789.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:17</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:17+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>2.9</value>
+</Data>
+<Data name="d in m">
+<value>581</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175933,-29.175992,789.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:18</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:18+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>3.6</value>
+</Data>
+<Data name="d in m">
+<value>584</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175902,-29.175975,790.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:19</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:19+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.6</value>
+</Data>
+<Data name="d in m">
+<value>587</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175868,-29.175947,790.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:20</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:20+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.8</value>
+</Data>
+<Data name="d in m">
+<value>592</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175845,-29.175907,790.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:21</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:21+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.6</value>
+</Data>
+<Data name="d in m">
+<value>597</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175832,-29.175860,789.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:22</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:22+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.7</value>
+</Data>
+<Data name="d in m">
+<value>602</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175838,-29.175807,787.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:23</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:23+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.5</value>
+</Data>
+<Data name="d in m">
+<value>609</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175847,-29.175743,786.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:24</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:24+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.0</value>
+</Data>
+<Data name="d in m">
+<value>617</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175852,-29.175673,785.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:25</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:25+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.0</value>
+</Data>
+<Data name="d in m">
+<value>625</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175855,-29.175600,785.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:26</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:26+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.2</value>
+</Data>
+<Data name="d in m">
+<value>633</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175860,-29.175527,784.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:27</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:27+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.1</value>
+</Data>
+<Data name="d in m">
+<value>641</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175862,-29.175452,785.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:28</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:28+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.8</value>
+</Data>
+<Data name="d in m">
+<value>649</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175863,-29.175375,785.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:29</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:29+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.6</value>
+</Data>
+<Data name="d in m">
+<value>657</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175867,-29.175303,785.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:30</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:30+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.3</value>
+</Data>
+<Data name="d in m">
+<value>664</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175868,-29.175235,785.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:31</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:31+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.9</value>
+</Data>
+<Data name="d in m">
+<value>672</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175870,-29.175168,786.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:32</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:32+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.6</value>
+</Data>
+<Data name="d in m">
+<value>678</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175870,-29.175107,786.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:33</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:33+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.1</value>
+</Data>
+<Data name="d in m">
+<value>685</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175873,-29.175045,787.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:34</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:34+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.0</value>
+</Data>
+<Data name="d in m">
+<value>691</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175873,-29.174993,788.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:35</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:35+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.7</value>
+</Data>
+<Data name="d in m">
+<value>696</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175867,-29.174952,788.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:36</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:36+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.3</value>
+</Data>
+<Data name="d in m">
+<value>701</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175852,-29.174915,789.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:37</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:37+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.0</value>
+</Data>
+<Data name="d in m">
+<value>705</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175818,-29.174885,789.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:38</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:38+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.9</value>
+</Data>
+<Data name="d in m">
+<value>710</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175777,-29.174858,790.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:39</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:39+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.6</value>
+</Data>
+<Data name="d in m">
+<value>716</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175715,-29.174848,790.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:40</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:40+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.2</value>
+</Data>
+<Data name="d in m">
+<value>723</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175635,-29.174855,791.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:41</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:41+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.3</value>
+</Data>
+<Data name="d in m">
+<value>731</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175552,-29.174850,791.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:42</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:42+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.9</value>
+</Data>
+<Data name="d in m">
+<value>739</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175458,-29.174858,791.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:43</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:43+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.3</value>
+</Data>
+<Data name="d in m">
+<value>748</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175363,-29.174858,791.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:44</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:44+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.7</value>
+</Data>
+<Data name="d in m">
+<value>757</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175260,-29.174857,791.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:45</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:45+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>10.0</value>
+</Data>
+<Data name="d in m">
+<value>767</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175157,-29.174858,791.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:46</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:46+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>10.4</value>
+</Data>
+<Data name="d in m">
+<value>777</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.175050,-29.174860,791.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:47</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:47+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>10.5</value>
+</Data>
+<Data name="d in m">
+<value>777</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.174942,-29.174858,792.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:48</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:48+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>10.4</value>
+</Data>
+<Data name="d in m">
+<value>798</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.174833,-29.174857,792.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:49</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:49+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>10.1</value>
+</Data>
+<Data name="d in m">
+<value>808</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.174730,-29.174852,792.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:50</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:50+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.6</value>
+</Data>
+<Data name="d in m">
+<value>818</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.174628,-29.174845,793.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:51</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:51+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.0</value>
+</Data>
+<Data name="d in m">
+<value>828</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.174537,-29.174838,793.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:52</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:52+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.6</value>
+</Data>
+<Data name="d in m">
+<value>837</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.174447,-29.174840,794.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:53</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:53+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.7</value>
+</Data>
+<Data name="d in m">
+<value>846</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.174358,-29.174838,794.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:54</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:54+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.9</value>
+</Data>
+<Data name="d in m">
+<value>854</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.174267,-29.174835,794.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:55</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:55+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.2</value>
+</Data>
+<Data name="d in m">
+<value>863</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.174172,-29.174832,795.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:56</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:56+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.3</value>
+</Data>
+<Data name="d in m">
+<value>872</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.174072,-29.174832,795.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:57</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:57+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.4</value>
+</Data>
+<Data name="d in m">
+<value>882</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.173973,-29.174835,796.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:58</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:58+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.6</value>
+</Data>
+<Data name="d in m">
+<value>891</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.173872,-29.174838,795.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:42:59</name>
+<TimeStamp> 
+<when>2019-10-03T11:42:59+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.7</value>
+</Data>
+<Data name="d in m">
+<value>901</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.173768,-29.174842,796.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:00</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:00+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.6</value>
+</Data>
+<Data name="d in m">
+<value>910</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.173668,-29.174840,796.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:01</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:01+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.4</value>
+</Data>
+<Data name="d in m">
+<value>920</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.173570,-29.174838,796.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:02</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:02+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.4</value>
+</Data>
+<Data name="d in m">
+<value>929</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.173468,-29.174833,796.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:03</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:03+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.3</value>
+</Data>
+<Data name="d in m">
+<value>939</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.173370,-29.174832,796.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:04</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:04+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.2</value>
+</Data>
+<Data name="d in m">
+<value>948</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.173273,-29.174827,796.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:05</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:05+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.3</value>
+</Data>
+<Data name="d in m">
+<value>957</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.173177,-29.174825,796.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:06</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:06+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.9</value>
+</Data>
+<Data name="d in m">
+<value>967</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.173080,-29.174825,796.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:07</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:07+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.9</value>
+</Data>
+<Data name="d in m">
+<value>976</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.172985,-29.174822,797.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:08</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:08+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.2</value>
+</Data>
+<Data name="d in m">
+<value>984</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.172887,-29.174817,797.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:09</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:09+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.3</value>
+</Data>
+<Data name="d in m">
+<value>994</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.172787,-29.174810,798.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:10</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:10+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.6</value>
+</Data>
+<Data name="d in m">
+<value>1003</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.172687,-29.174810,797.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:11</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:11+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>10.5</value>
+</Data>
+<Data name="d in m">
+<value>1013</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.172582,-29.174820,795.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:12</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:12+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>10.3</value>
+</Data>
+<Data name="d in m">
+<value>1023</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.172472,-29.174828,795.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:13</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:13+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>10.1</value>
+</Data>
+<Data name="d in m">
+<value>1033</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.172367,-29.174827,794.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:14</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:14+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>10.4</value>
+</Data>
+<Data name="d in m">
+<value>1043</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.172255,-29.174832,794.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:15</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:15+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>10.2</value>
+</Data>
+<Data name="d in m">
+<value>1054</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.172147,-29.174828,794.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:16</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:16+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>10.3</value>
+</Data>
+<Data name="d in m">
+<value>1064</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.172042,-29.174827,794.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:17</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:17+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.9</value>
+</Data>
+<Data name="d in m">
+<value>1074</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.171942,-29.174828,793.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:18</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:18+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.6</value>
+</Data>
+<Data name="d in m">
+<value>1084</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.171845,-29.174832,791.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:19</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:19+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.1</value>
+</Data>
+<Data name="d in m">
+<value>1094</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.171752,-29.174832,790.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:20</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:20+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.5</value>
+</Data>
+<Data name="d in m">
+<value>1103</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.171658,-29.174830,789.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:21</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:21+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.5</value>
+</Data>
+<Data name="d in m">
+<value>1112</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.171563,-29.174827,788.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:22</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:22+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.5</value>
+</Data>
+<Data name="d in m">
+<value>1122</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.171463,-29.174827,787.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:23</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:23+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.7</value>
+</Data>
+<Data name="d in m">
+<value>1131</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.171363,-29.174832,785.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:24</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:24+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.5</value>
+</Data>
+<Data name="d in m">
+<value>1141</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.171263,-29.174830,784.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:25</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:25+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.5</value>
+</Data>
+<Data name="d in m">
+<value>1151</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.171167,-29.174825,783.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:26</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:26+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.4</value>
+</Data>
+<Data name="d in m">
+<value>1160</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.171070,-29.174827,782.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:27</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:27+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.5</value>
+</Data>
+<Data name="d in m">
+<value>1170</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.170973,-29.174828,781.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:28</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:28+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.8</value>
+</Data>
+<Data name="d in m">
+<value>1179</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.170875,-29.174828,780.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:29</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:29+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.7</value>
+</Data>
+<Data name="d in m">
+<value>1189</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.170777,-29.174830,780.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:30</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:30+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.3</value>
+</Data>
+<Data name="d in m">
+<value>1199</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.170685,-29.174827,780.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:31</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:31+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.8</value>
+</Data>
+<Data name="d in m">
+<value>1208</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.170597,-29.174820,780.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:32</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:32+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.1</value>
+</Data>
+<Data name="d in m">
+<value>1217</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.170515,-29.174815,781.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:33</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:33+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.0</value>
+</Data>
+<Data name="d in m">
+<value>1225</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.170440,-29.174803,781.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:34</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:34+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.6</value>
+</Data>
+<Data name="d in m">
+<value>1232</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.170378,-29.174795,781.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:35</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:35+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.4</value>
+</Data>
+<Data name="d in m">
+<value>1237</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.170328,-29.174793,781.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:36</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:36+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.1</value>
+</Data>
+<Data name="d in m">
+<value>1242</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.170288,-29.174798,781.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:37</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:37+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>3.6</value>
+</Data>
+<Data name="d in m">
+<value>1246</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.170258,-29.174813,781.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:38</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:38+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.5</value>
+</Data>
+<Data name="d in m">
+<value>1249</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.170233,-29.174840,781.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:39</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:39+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.9</value>
+</Data>
+<Data name="d in m">
+<value>1254</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.170217,-29.174878,781.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:40</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:40+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.1</value>
+</Data>
+<Data name="d in m">
+<value>1259</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.170213,-29.174923,781.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:41</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:41+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.8</value>
+</Data>
+<Data name="d in m">
+<value>1264</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.170215,-29.174967,781.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:42</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:42+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>3.8</value>
+</Data>
+<Data name="d in m">
+<value>1269</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.170217,-29.175003,782.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:43</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:43+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>3.6</value>
+</Data>
+<Data name="d in m">
+<value>1273</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.170217,-29.175037,782.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:44</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:44+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.4</value>
+</Data>
+<Data name="d in m">
+<value>1276</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.170212,-29.175072,782.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:45</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:45+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.0</value>
+</Data>
+<Data name="d in m">
+<value>1281</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.170198,-29.175110,782.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:46</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:46+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.2</value>
+</Data>
+<Data name="d in m">
+<value>1286</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.170173,-29.175147,782.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:47</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:47+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.1</value>
+</Data>
+<Data name="d in m">
+<value>1291</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.170138,-29.175193,782.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:48</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:48+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.1</value>
+</Data>
+<Data name="d in m">
+<value>1297</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.170095,-29.175245,782.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:49</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:49+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.5</value>
+</Data>
+<Data name="d in m">
+<value>1304</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.170037,-29.175297,782.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:50</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:50+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.7</value>
+</Data>
+<Data name="d in m">
+<value>1311</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.169978,-29.175347,782.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:51</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:51+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.9</value>
+</Data>
+<Data name="d in m">
+<value>1319</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.169922,-29.175398,782.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:52</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:52+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.3</value>
+</Data>
+<Data name="d in m">
+<value>1327</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.169865,-29.175450,782.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:53</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:53+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.6</value>
+</Data>
+<Data name="d in m">
+<value>1335</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.169805,-29.175505,782.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:54</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:54+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.5</value>
+</Data>
+<Data name="d in m">
+<value>1344</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.169743,-29.175558,783.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:55</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:55+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.5</value>
+</Data>
+<Data name="d in m">
+<value>1352</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.169683,-29.175612,783.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:56</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:56+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.4</value>
+</Data>
+<Data name="d in m">
+<value>1361</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.169622,-29.175663,783.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:57</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:57+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.6</value>
+</Data>
+<Data name="d in m">
+<value>1369</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.169563,-29.175713,783.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:58</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:58+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.6</value>
+</Data>
+<Data name="d in m">
+<value>1377</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.169507,-29.175760,784.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:43:59</name>
+<TimeStamp> 
+<when>2019-10-03T11:43:59+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.4</value>
+</Data>
+<Data name="d in m">
+<value>1385</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.169448,-29.175803,784.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:00</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:00+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.7</value>
+</Data>
+<Data name="d in m">
+<value>1392</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.169383,-29.175840,784.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:01</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:01+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.9</value>
+</Data>
+<Data name="d in m">
+<value>1400</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.169305,-29.175870,784.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:02</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:02+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.0</value>
+</Data>
+<Data name="d in m">
+<value>1408</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.169223,-29.175888,784.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:03</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:03+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.2</value>
+</Data>
+<Data name="d in m">
+<value>1416</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.169143,-29.175898,784.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:04</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:04+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.6</value>
+</Data>
+<Data name="d in m">
+<value>1424</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.169067,-29.175902,785.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:05</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:05+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.7</value>
+</Data>
+<Data name="d in m">
+<value>1431</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.168993,-29.175898,785.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:06</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:06+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.1</value>
+</Data>
+<Data name="d in m">
+<value>1439</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.168913,-29.175895,785.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:07</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:07+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.4</value>
+</Data>
+<Data name="d in m">
+<value>1447</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.168830,-29.175892,786.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:08</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:08+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.1</value>
+</Data>
+<Data name="d in m">
+<value>1456</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.168742,-29.175888,785.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:09</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:09+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.8</value>
+</Data>
+<Data name="d in m">
+<value>1464</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.168660,-29.175887,785.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:10</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:10+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.5</value>
+</Data>
+<Data name="d in m">
+<value>1471</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.168582,-29.175877,785.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:11</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:11+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.9</value>
+</Data>
+<Data name="d in m">
+<value>1479</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.168508,-29.175875,784.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:12</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:12+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.4</value>
+</Data>
+<Data name="d in m">
+<value>1487</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.168425,-29.175878,784.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:13</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:13+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.7</value>
+</Data>
+<Data name="d in m">
+<value>1495</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.168337,-29.175883,784.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:14</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:14+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.9</value>
+</Data>
+<Data name="d in m">
+<value>1495</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.168248,-29.175883,784.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:15</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:15+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.9</value>
+</Data>
+<Data name="d in m">
+<value>1513</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.168158,-29.175883,783.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:16</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:16+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.7</value>
+</Data>
+<Data name="d in m">
+<value>1522</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.168063,-29.175890,783.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:17</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:17+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.4</value>
+</Data>
+<Data name="d in m">
+<value>1530</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167975,-29.175895,784.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:18</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:18+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.8</value>
+</Data>
+<Data name="d in m">
+<value>1539</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167890,-29.175897,784.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:19</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:19+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.3</value>
+</Data>
+<Data name="d in m">
+<value>1547</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167812,-29.175898,784.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:20</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:20+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.6</value>
+</Data>
+<Data name="d in m">
+<value>1554</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167740,-29.175900,785.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:21</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:21+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.9</value>
+</Data>
+<Data name="d in m">
+<value>1561</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167675,-29.175900,785.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:22</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:22+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.9</value>
+</Data>
+<Data name="d in m">
+<value>1566</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167620,-29.175900,786.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:23</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:23+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>3.9</value>
+</Data>
+<Data name="d in m">
+<value>1571</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167573,-29.175898,786.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:24</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:24+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>2.6</value>
+</Data>
+<Data name="d in m">
+<value>1575</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167542,-29.175900,786.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:25</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:25+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>1.6</value>
+</Data>
+<Data name="d in m">
+<value>1578</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167523,-29.175898,787.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:26</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:26+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.7</value>
+</Data>
+<Data name="d in m">
+<value>1579</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167513,-29.175897,787.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:27</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:27+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.4</value>
+</Data>
+<Data name="d in m">
+<value>1580</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167510,-29.175895,787.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:28</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:28+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.3</value>
+</Data>
+<Data name="d in m">
+<value>1581</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167507,-29.175893,787.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:29</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:29+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.2</value>
+</Data>
+<Data name="d in m">
+<value>1581</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167507,-29.175892,787.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:30</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:30+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.6</value>
+</Data>
+<Data name="d in m">
+<value>1581</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167507,-29.175892,787.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:31</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:31+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>1.5</value>
+</Data>
+<Data name="d in m">
+<value>1582</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167498,-29.175892,787.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:32</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:32+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>2.4</value>
+</Data>
+<Data name="d in m">
+<value>1583</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167478,-29.175888,787.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:33</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:33+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>3.0</value>
+</Data>
+<Data name="d in m">
+<value>1586</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167455,-29.175878,788.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:34</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:34+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>3.5</value>
+</Data>
+<Data name="d in m">
+<value>1589</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167428,-29.175860,788.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:35</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:35+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>3.7</value>
+</Data>
+<Data name="d in m">
+<value>1592</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167405,-29.175835,788.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:36</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:36+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>3.4</value>
+</Data>
+<Data name="d in m">
+<value>1596</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167388,-29.175807,787.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:37</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:37+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.0</value>
+</Data>
+<Data name="d in m">
+<value>1599</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167377,-29.175775,787.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:38</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:38+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.2</value>
+</Data>
+<Data name="d in m">
+<value>1603</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167372,-29.175738,787.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:39</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:39+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.5</value>
+</Data>
+<Data name="d in m">
+<value>1607</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167370,-29.175702,788.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:40</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:40+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.5</value>
+</Data>
+<Data name="d in m">
+<value>1607</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167370,-29.175662,788.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:41</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:41+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.6</value>
+</Data>
+<Data name="d in m">
+<value>1616</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167368,-29.175617,791.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:42</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:42+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.4</value>
+</Data>
+<Data name="d in m">
+<value>1621</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167367,-29.175573,792.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:43</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:43+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.3</value>
+</Data>
+<Data name="d in m">
+<value>1625</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167367,-29.175532,794.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:44</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:44+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.1</value>
+</Data>
+<Data name="d in m">
+<value>1630</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167367,-29.175492,794.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:45</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:45+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.1</value>
+</Data>
+<Data name="d in m">
+<value>1634</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167367,-29.175455,795.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:46</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:46+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.1</value>
+</Data>
+<Data name="d in m">
+<value>1638</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167365,-29.175417,796.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:47</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:47+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.3</value>
+</Data>
+<Data name="d in m">
+<value>1642</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167365,-29.175378,796.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:48</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:48+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.6</value>
+</Data>
+<Data name="d in m">
+<value>1646</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167363,-29.175338,796.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:49</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:49+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.9</value>
+</Data>
+<Data name="d in m">
+<value>1651</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167363,-29.175295,796.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:50</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:50+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.8</value>
+</Data>
+<Data name="d in m">
+<value>1656</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167363,-29.175250,797.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:51</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:51+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.0</value>
+</Data>
+<Data name="d in m">
+<value>1661</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167365,-29.175203,798.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:52</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:52+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.1</value>
+</Data>
+<Data name="d in m">
+<value>1666</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167363,-29.175157,799.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:53</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:53+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.4</value>
+</Data>
+<Data name="d in m">
+<value>1671</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167367,-29.175108,800.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:54</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:54+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.4</value>
+</Data>
+<Data name="d in m">
+<value>1676</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167368,-29.175058,801.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:55</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:55+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.2</value>
+</Data>
+<Data name="d in m">
+<value>1681</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167373,-29.175008,802.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:56</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:56+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.7</value>
+</Data>
+<Data name="d in m">
+<value>1687</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167382,-29.174965,803.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:57</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:57+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>3.8</value>
+</Data>
+<Data name="d in m">
+<value>1691</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167383,-29.174927,804.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:58</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:58+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>2.8</value>
+</Data>
+<Data name="d in m">
+<value>1695</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167380,-29.174897,805.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:44:59</name>
+<TimeStamp> 
+<when>2019-10-03T11:44:59+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>1.7</value>
+</Data>
+<Data name="d in m">
+<value>1698</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167375,-29.174878,805.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:00</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:00+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>1.1</value>
+</Data>
+<Data name="d in m">
+<value>1700</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167372,-29.174867,805.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:01</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:01+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>1.1</value>
+</Data>
+<Data name="d in m">
+<value>1701</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167363,-29.174855,806.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:02</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:02+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>2.2</value>
+</Data>
+<Data name="d in m">
+<value>1702</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167363,-29.174840,805.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:03</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:03+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>3.2</value>
+</Data>
+<Data name="d in m">
+<value>1704</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167362,-29.174817,805.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:04</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:04+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.0</value>
+</Data>
+<Data name="d in m">
+<value>1707</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167360,-29.174783,805.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:05</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:05+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.4</value>
+</Data>
+<Data name="d in m">
+<value>1711</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167360,-29.174745,804.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:06</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:06+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.9</value>
+</Data>
+<Data name="d in m">
+<value>1716</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167358,-29.174702,803.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:07</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:07+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.9</value>
+</Data>
+<Data name="d in m">
+<value>1721</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167358,-29.174653,802.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:08</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:08+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.8</value>
+</Data>
+<Data name="d in m">
+<value>1726</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167362,-29.174595,802.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:09</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:09+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.4</value>
+</Data>
+<Data name="d in m">
+<value>1733</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167362,-29.174530,802.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:10</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:10+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.9</value>
+</Data>
+<Data name="d in m">
+<value>1741</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167363,-29.174460,803.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:11</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:11+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.2</value>
+</Data>
+<Data name="d in m">
+<value>1749</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167365,-29.174387,802.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:12</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:12+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.3</value>
+</Data>
+<Data name="d in m">
+<value>1757</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167365,-29.174312,802.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:13</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:13+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.1</value>
+</Data>
+<Data name="d in m">
+<value>1765</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167367,-29.174237,802.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:14</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:14+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.6</value>
+</Data>
+<Data name="d in m">
+<value>1773</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167368,-29.174165,802.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:15</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:15+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.4</value>
+</Data>
+<Data name="d in m">
+<value>1781</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167372,-29.174098,802.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:16</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:16+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.1</value>
+</Data>
+<Data name="d in m">
+<value>1788</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167368,-29.174028,801.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:17</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:17+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.9</value>
+</Data>
+<Data name="d in m">
+<value>1796</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167367,-29.173952,800.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:18</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:18+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.4</value>
+</Data>
+<Data name="d in m">
+<value>1805</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167365,-29.173868,798.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:19</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:19+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>10.0</value>
+</Data>
+<Data name="d in m">
+<value>1815</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167365,-29.173782,798.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:20</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:20+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>10.6</value>
+</Data>
+<Data name="d in m">
+<value>1825</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167367,-29.173688,797.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:21</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:21+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>11.2</value>
+</Data>
+<Data name="d in m">
+<value>1835</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167368,-29.173587,796.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:22</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:22+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>11.5</value>
+</Data>
+<Data name="d in m">
+<value>1846</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167372,-29.173482,796.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:23</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:23+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>11.6</value>
+</Data>
+<Data name="d in m">
+<value>1858</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167372,-29.173375,795.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:24</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:24+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>11.4</value>
+</Data>
+<Data name="d in m">
+<value>1869</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167373,-29.173272,795.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:25</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:25+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>11.1</value>
+</Data>
+<Data name="d in m">
+<value>1881</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167377,-29.173170,794.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:26</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:26+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>11.0</value>
+</Data>
+<Data name="d in m">
+<value>1892</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167388,-29.173073,791.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:27</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:27+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>10.7</value>
+</Data>
+<Data name="d in m">
+<value>1903</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167398,-29.172980,789.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:28</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:28+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>10.2</value>
+</Data>
+<Data name="d in m">
+<value>1914</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167405,-29.172887,787.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:29</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:29+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.8</value>
+</Data>
+<Data name="d in m">
+<value>1924</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167412,-29.172798,786.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:30</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:30+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.3</value>
+</Data>
+<Data name="d in m">
+<value>1934</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167417,-29.172712,785.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:31</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:31+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.8</value>
+</Data>
+<Data name="d in m">
+<value>1943</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167422,-29.172630,785.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:32</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:32+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.2</value>
+</Data>
+<Data name="d in m">
+<value>1952</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167425,-29.172553,785.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:33</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:33+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.6</value>
+</Data>
+<Data name="d in m">
+<value>1960</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167432,-29.172482,786.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:34</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:34+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.9</value>
+</Data>
+<Data name="d in m">
+<value>1968</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167440,-29.172417,786.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:35</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:35+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.0</value>
+</Data>
+<Data name="d in m">
+<value>1974</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167445,-29.172357,787.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:36</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:36+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.9</value>
+</Data>
+<Data name="d in m">
+<value>1980</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167448,-29.172307,788.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:37</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:37+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>3.5</value>
+</Data>
+<Data name="d in m">
+<value>1985</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167452,-29.172267,789.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:38</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:38+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>2.5</value>
+</Data>
+<Data name="d in m">
+<value>1989</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167455,-29.172240,789.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:39</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:39+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>1.8</value>
+</Data>
+<Data name="d in m">
+<value>1991</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167457,-29.172222,790.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:40</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:40+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>1.0</value>
+</Data>
+<Data name="d in m">
+<value>1993</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167463,-29.172210,791.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:41</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:41+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.3</value>
+</Data>
+<Data name="d in m">
+<value>1994</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167467,-29.172205,792.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:42</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:42+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>1994</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167467,-29.172203,792.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:43</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:43+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>1994</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167467,-29.172203,792.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:44</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:44+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>1994</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167467,-29.172203,792.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:45</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:45+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>1994</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167467,-29.172203,792.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:46</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:46+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>1994</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167467,-29.172203,792.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:47</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:47+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>1994</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167467,-29.172203,792.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:48</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:48+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>1994</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167467,-29.172203,792.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:49</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:49+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>1994</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167467,-29.172203,792.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:50</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:50+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>1994</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167467,-29.172203,792.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:51</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:51+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>1994</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167467,-29.172205,792.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:52</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:52+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>1994</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167467,-29.172205,792.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:53</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:53+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>1994</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167467,-29.172205,792.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:54</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:54+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>1994</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167467,-29.172205,792.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:55</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:55+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>1994</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167467,-29.172205,792.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:56</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:56+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>1994</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167467,-29.172205,792.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:57</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:57+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>1994</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167467,-29.172205,792.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:58</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:58+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>1994</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167467,-29.172205,792.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:45:59</name>
+<TimeStamp> 
+<when>2019-10-03T11:45:59+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>1994</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167467,-29.172205,792.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:00</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:00+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.0</value>
+</Data>
+<Data name="d in m">
+<value>1994</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167467,-29.172205,792.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:01</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:01+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>0.3</value>
+</Data>
+<Data name="d in m">
+<value>1994</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167465,-29.172202,792.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:02</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:02+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>1.0</value>
+</Data>
+<Data name="d in m">
+<value>1995</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167463,-29.172195,792.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:03</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:03+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>2.1</value>
+</Data>
+<Data name="d in m">
+<value>1996</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167463,-29.172182,792.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:04</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:04+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>2.2</value>
+</Data>
+<Data name="d in m">
+<value>1998</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167467,-29.172160,792.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:05</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:05+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>2.8</value>
+</Data>
+<Data name="d in m">
+<value>2000</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167470,-29.172137,793.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:06</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:06+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>3.5</value>
+</Data>
+<Data name="d in m">
+<value>2003</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167472,-29.172105,794.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:07</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:07+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>3.9</value>
+</Data>
+<Data name="d in m">
+<value>2006</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167475,-29.172068,795.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:08</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:08+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.2</value>
+</Data>
+<Data name="d in m">
+<value>2010</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167480,-29.172027,796.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:09</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:09+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.2</value>
+</Data>
+<Data name="d in m">
+<value>2014</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167483,-29.171983,796.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:10</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:10+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.5</value>
+</Data>
+<Data name="d in m">
+<value>2019</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167480,-29.171942,796.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:11</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:11+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.5</value>
+</Data>
+<Data name="d in m">
+<value>2023</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167478,-29.171902,796.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:12</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:12+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.3</value>
+</Data>
+<Data name="d in m">
+<value>2028</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167477,-29.171860,797.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:13</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:13+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.5</value>
+</Data>
+<Data name="d in m">
+<value>2032</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167463,-29.171820,797.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:14</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:14+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.4</value>
+</Data>
+<Data name="d in m">
+<value>2036</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167438,-29.171785,797.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:15</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:15+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.4</value>
+</Data>
+<Data name="d in m">
+<value>2041</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167403,-29.171757,796.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:16</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:16+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.1</value>
+</Data>
+<Data name="d in m">
+<value>2046</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167350,-29.171737,795.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:17</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:17+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.7</value>
+</Data>
+<Data name="d in m">
+<value>2052</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167282,-29.171733,795.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:18</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:18+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.2</value>
+</Data>
+<Data name="d in m">
+<value>2059</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167210,-29.171737,795.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:19</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:19+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.7</value>
+</Data>
+<Data name="d in m">
+<value>2066</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167132,-29.171735,795.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:20</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:20+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.3</value>
+</Data>
+<Data name="d in m">
+<value>2074</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.167048,-29.171733,795.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:21</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:21+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.7</value>
+</Data>
+<Data name="d in m">
+<value>2082</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.166960,-29.171733,795.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:22</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:22+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.9</value>
+</Data>
+<Data name="d in m">
+<value>2091</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.166868,-29.171733,794.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:23</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:23+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.9</value>
+</Data>
+<Data name="d in m">
+<value>2100</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.166770,-29.171730,794.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:24</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:24+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>10.1</value>
+</Data>
+<Data name="d in m">
+<value>2110</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.166657,-29.171747,793.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:25</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:25+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>10.3</value>
+</Data>
+<Data name="d in m">
+<value>2120</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.166545,-29.171752,792.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:26</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:26+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>10.4</value>
+</Data>
+<Data name="d in m">
+<value>2130</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.166437,-29.171750,791.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:27</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:27+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>10.6</value>
+</Data>
+<Data name="d in m">
+<value>2141</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.166330,-29.171748,791.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:28</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:28+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>10.9</value>
+</Data>
+<Data name="d in m">
+<value>2151</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.166217,-29.171748,790.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:29</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:29+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>10.8</value>
+</Data>
+<Data name="d in m">
+<value>2162</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.166103,-29.171747,790.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:30</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:30+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>10.9</value>
+</Data>
+<Data name="d in m">
+<value>2173</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.165990,-29.171745,790.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:31</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:31+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>11.1</value>
+</Data>
+<Data name="d in m">
+<value>2184</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.165875,-29.171743,790.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:32</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:32+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>11.5</value>
+</Data>
+<Data name="d in m">
+<value>2195</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.165758,-29.171738,790.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:33</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:33+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>11.9</value>
+</Data>
+<Data name="d in m">
+<value>2206</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.165638,-29.171733,790.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:34</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:34+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>11.8</value>
+</Data>
+<Data name="d in m">
+<value>2218</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.165513,-29.171732,789.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:35</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:35+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>11.2</value>
+</Data>
+<Data name="d in m">
+<value>2230</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.165393,-29.171730,788.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:36</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:36+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>11.2</value>
+</Data>
+<Data name="d in m">
+<value>2241</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.165272,-29.171730,787.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:37</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:37+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>11.6</value>
+</Data>
+<Data name="d in m">
+<value>2252</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.165148,-29.171730,787.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:38</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:38+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>10.9</value>
+</Data>
+<Data name="d in m">
+<value>2264</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.165030,-29.171737,787.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:39</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:39+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>10.3</value>
+</Data>
+<Data name="d in m">
+<value>2275</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.164917,-29.171743,784.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:40</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:40+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.6</value>
+</Data>
+<Data name="d in m">
+<value>2285</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.164810,-29.171747,783.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:41</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:41+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.7</value>
+</Data>
+<Data name="d in m">
+<value>2295</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.164707,-29.171748,783.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:42</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:42+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.6</value>
+</Data>
+<Data name="d in m">
+<value>2305</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.164608,-29.171745,782.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:43</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:43+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.4</value>
+</Data>
+<Data name="d in m">
+<value>2314</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.164513,-29.171732,781.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:44</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:44+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.3</value>
+</Data>
+<Data name="d in m">
+<value>2324</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.164417,-29.171723,782.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:45</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:45+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.4</value>
+</Data>
+<Data name="d in m">
+<value>2333</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.164323,-29.171712,781.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:46</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:46+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.3</value>
+</Data>
+<Data name="d in m">
+<value>2342</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.164228,-29.171702,781.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:47</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:47+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>9.2</value>
+</Data>
+<Data name="d in m">
+<value>2352</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.164135,-29.171697,781.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:48</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:48+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.9</value>
+</Data>
+<Data name="d in m">
+<value>2361</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.164043,-29.171690,781.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:49</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:49+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>8.4</value>
+</Data>
+<Data name="d in m">
+<value>2370</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.163957,-29.171687,781.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:50</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:50+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.8</value>
+</Data>
+<Data name="d in m">
+<value>2378</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.163873,-29.171682,782.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:51</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:51+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.0</value>
+</Data>
+<Data name="d in m">
+<value>2386</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.163800,-29.171677,782.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:52</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:52+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.7</value>
+</Data>
+<Data name="d in m">
+<value>2393</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.163737,-29.171673,782.1</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:53</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:53+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.9</value>
+</Data>
+<Data name="d in m">
+<value>2399</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.163687,-29.171668,781.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:54</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:54+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>4.7</value>
+</Data>
+<Data name="d in m">
+<value>2403</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.163642,-29.171672,780.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:55</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:55+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.0</value>
+</Data>
+<Data name="d in m">
+<value>2408</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.163593,-29.171673,779.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:56</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:56+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.8</value>
+</Data>
+<Data name="d in m">
+<value>2413</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.163537,-29.171673,779.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:57</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:57+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.2</value>
+</Data>
+<Data name="d in m">
+<value>2419</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.163475,-29.171672,779.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:58</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:58+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.7</value>
+</Data>
+<Data name="d in m">
+<value>2425</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.163403,-29.171668,779.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:46:59</name>
+<TimeStamp> 
+<when>2019-10-03T11:46:59+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.4</value>
+</Data>
+<Data name="d in m">
+<value>2432</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.163333,-29.171667,779.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:47:00</name>
+<TimeStamp> 
+<when>2019-10-03T11:47:00+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.7</value>
+</Data>
+<Data name="d in m">
+<value>2438</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.163263,-29.171667,780.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:47:01</name>
+<TimeStamp> 
+<when>2019-10-03T11:47:01+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.7</value>
+</Data>
+<Data name="d in m">
+<value>2445</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.163193,-29.171668,780.4</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:47:02</name>
+<TimeStamp> 
+<when>2019-10-03T11:47:02+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.5</value>
+</Data>
+<Data name="d in m">
+<value>2452</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.163125,-29.171668,780.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:47:03</name>
+<TimeStamp> 
+<when>2019-10-03T11:47:03+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.8</value>
+</Data>
+<Data name="d in m">
+<value>2458</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.163053,-29.171670,779.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:47:04</name>
+<TimeStamp> 
+<when>2019-10-03T11:47:04+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.4</value>
+</Data>
+<Data name="d in m">
+<value>2465</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.162977,-29.171667,778.6</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:47:05</name>
+<TimeStamp> 
+<when>2019-10-03T11:47:05+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.4</value>
+</Data>
+<Data name="d in m">
+<value>2472</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.162898,-29.171657,777.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:47:06</name>
+<TimeStamp> 
+<when>2019-10-03T11:47:06+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.4</value>
+</Data>
+<Data name="d in m">
+<value>2480</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.162820,-29.171650,776.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:47:07</name>
+<TimeStamp> 
+<when>2019-10-03T11:47:07+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.2</value>
+</Data>
+<Data name="d in m">
+<value>2487</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.162745,-29.171643,775.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:47:08</name>
+<TimeStamp> 
+<when>2019-10-03T11:47:08+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>7.1</value>
+</Data>
+<Data name="d in m">
+<value>2494</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.162670,-29.171642,774.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:47:09</name>
+<TimeStamp> 
+<when>2019-10-03T11:47:09+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.7</value>
+</Data>
+<Data name="d in m">
+<value>2501</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.162597,-29.171642,773.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:47:10</name>
+<TimeStamp> 
+<when>2019-10-03T11:47:10+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.1</value>
+</Data>
+<Data name="d in m">
+<value>2508</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.162532,-29.171638,772.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:47:11</name>
+<TimeStamp> 
+<when>2019-10-03T11:47:11+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.9</value>
+</Data>
+<Data name="d in m">
+<value>2514</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.162468,-29.171637,771.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:47:12</name>
+<TimeStamp> 
+<when>2019-10-03T11:47:12+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.8</value>
+</Data>
+<Data name="d in m">
+<value>2520</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.162410,-29.171635,770.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:47:13</name>
+<TimeStamp> 
+<when>2019-10-03T11:47:13+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.7</value>
+</Data>
+<Data name="d in m">
+<value>2526</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.162352,-29.171632,769.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:47:14</name>
+<TimeStamp> 
+<when>2019-10-03T11:47:14+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.2</value>
+</Data>
+<Data name="d in m">
+<value>2532</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.162297,-29.171618,768.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:47:15</name>
+<TimeStamp> 
+<when>2019-10-03T11:47:15+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.7</value>
+</Data>
+<Data name="d in m">
+<value>2537</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.162247,-29.171593,768.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:47:16</name>
+<TimeStamp> 
+<when>2019-10-03T11:47:16+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>5.9</value>
+</Data>
+<Data name="d in m">
+<value>2543</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.162207,-29.171552,768.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:47:17</name>
+<TimeStamp> 
+<when>2019-10-03T11:47:17+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.3</value>
+</Data>
+<Data name="d in m">
+<value>2548</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.162182,-29.171500,769.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03-10-11:47:18</name>
+<TimeStamp> 
+<when>2019-10-03T11:47:18+00:00</when>
+</TimeStamp>
+<ExtendedData>
+<Data name="m/s">
+<value>6.5</value>
+</Data>
+<Data name="d in m">
+<value>2555</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>-51.162163,-29.171438,769.4</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>
